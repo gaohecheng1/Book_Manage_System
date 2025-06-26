@@ -1,0 +1,11 @@
+# Compiled object files
+*.o
+
+# Executables
+book_manager
+
+# Data files
+data/*.csv
+
+# macOS specific files
+.DS_Store
