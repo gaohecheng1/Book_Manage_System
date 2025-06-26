@@ -68,22 +68,9 @@ make
 
 MIT
 
-## Git 项目管理
+## 运行效果
 
-1. 初始化 Git 仓库
-```bash
-git init
-```
-2. 添加所有文件到暂存区
-```bash
-git add .
-```
-3. 提交更改
-```bash
-git commit -m "Initial commit"
-```
-4. （可选）关联远程仓库并推送
-```bash
-git remote add origin <远程仓库URL>
-git push -u origin master
-```
+![图书借阅归还管理系统](screenshots/Screenshot 2025-06-26 at 08.55.27.png)
+![图书管理](screenshots/Screenshot 2025-06-26 at 08.55.39.png)
+![读者管理](screenshots/Screenshot 2025-06-26 at 08.55.50.png)
+![借阅管理](screenshots/Screenshot 2025-06-26 at 08.56.14.png)
